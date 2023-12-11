@@ -1,1 +1,1 @@
-You can Check Live on this Link: https://spamfiltering-aqwxtgodyubydn2wewtlsm.streamlit.app/
+You can check the live version of this project [here](https://spamfiltering-aqwxtgodyubydn2wewtlsm.streamlit.app/).
